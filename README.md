@@ -19,12 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoE114&layout=compact&theme=tokyonight&title_color=00fff7" />
 </p>
 
-<!-- Neon Clock & Visitor Map -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=ff00cc&label=Time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEtc%2FUTC" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=NoE114&label=Visitors&countColor=%23ff00cc&style=flat&labelStyle=upper" />
-</p>
-
 <!-- Skill Progress Bars -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-90%25-ff00cc?style=flat&labelColor=202020" />
