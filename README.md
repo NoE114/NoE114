@@ -5,7 +5,7 @@
 </p>
 
 
-<img src="https://github.com/NoE114/asset/blob/main/banana.svg" width="100%" />
+<img src="https://github.com/NoE114/asset/blob/main/nextsvg%20(1).svg" width="100%" />
 
 <p align="center">
   <a href="https://twitter.com/NoE114"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=ff00cc" /></a>
