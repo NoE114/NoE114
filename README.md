@@ -31,10 +31,6 @@
   <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/NoE114&size=120x120&bgcolor=202020&color=00fff7" width="120" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/NoE114/asset/blob/main/her.svg" width="100%" />
-</p>
-
 <!-- Cyberpunk ASCII Art -->
 <pre align="center">
 <span style="color:#ff00cc">
