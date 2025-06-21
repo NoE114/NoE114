@@ -68,5 +68,5 @@ User@Neon:~$ whoami
 </p>
 
 <p align="center">
-  [![Watch on YouTube](https://img.youtube.com/vi/eTplxWaAD8o/hqdefault.jpg)](https://youtu.be/eTplxWaAD8o?si=UUEwvZKSJOv-ipce)
+  <img src="https://github.com/NoE114/asset/blob/main/front.svg" width="100%" />
 </p>
