@@ -58,13 +58,6 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [NeonBot](https://github.com/NoE114/NeonBot) | 🤖 A futuristic AI Discord bot with neon UI | Python, AI |
-| [CyberUI](https://github.com/NoE114/CyberUI) | 🖥️ Neon component library for React | React, Tailwind |
-| [QuantumPaint](https://github.com/NoE114/QuantumPaint) | 🎨 Generative art with quantum randomness | Python, AI |
-
-<img src="https://raw.githubusercontent.com/NoE114/assets/main/neon-divider.svg" width="100%" />
 
 ```
 User@Neon:~$ whoami
