@@ -68,5 +68,5 @@ User@Neon:~$ whoami
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoE114/assets/main/cyber-quote.svg" width="320" />
+  [![Watch on YouTube](https://img.youtube.com/vi/eTplxWaAD8o/hqdefault.jpg)](https://youtu.be/eTplxWaAD8o?si=UUEwvZKSJOv-ipce)
 </p>
