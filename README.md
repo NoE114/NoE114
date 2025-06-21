@@ -1,50 +1,57 @@
 # 👋 Hi, I'm Raj Dey!
 
-🎓 I'm a college student passionate about **technology**, **programming**, and **creative problem-solving**.
-💻 Currently diving deep into **C Programming**, **Digital Circuits**, and **Python**.
-🎮 I enjoy building games, exploring machine learning, and learning cool stuff about hardware.
-🌱 Learning something new every day!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=FF00CC&center=true&vCenter=true&width=480&lines=Welcome+to+the+Future;NoE114+%7C+Neon+Code+Sorcerer;Open+Source+Cyberpunk+%F0%9F%A4%96" />
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoE114/assets/main/neon-avatar.svg" width="140" />
+</p>
+<img src="https://raw.githubusercontent.com/NoE114/assets/main/neon-divider.svg" width="100%" />
 
-## 🚀 Projects
+<p align="center">
+  <a href="https://twitter.com/NoE114"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=ff00cc" /></a>
+  <a href="https://linkedin.com/in/NoE114"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00fff7" /></a>
+  <img src="https://count.getloli.com/get/@NoE114?theme=rule34" />
+</p>
 
-* 🎮 Python Game Projects (working on sprite animations)
-* 🌐 Personal Portfolio (coming soon!)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NoE114&theme=neon-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoE114&show_icons=true&theme=radical&title_color=ff00cc&icon_color=00fff7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoE114&layout=compact&theme=tokyonight&title_color=00fff7" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ff00cc?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-00fff7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-✨-00fff7?style=for-the-badge" />
+</p>
 
-## 🛠️ Skills
+### 🚀 Featured Projects
 
-* **Languages:** C, Python, HTML, CSS, JavaScript
-* **Tools:** Git, VS Code, After Effects, Premiere Pro
-* **Topics:** Digital Electronics, Computer Architecture, Flexbox & Layout Design
+| Project | Description | Tech |
+|---|---|---|
+| [NeonBot](https://github.com/NoE114/NeonBot) | 🤖 A futuristic AI Discord bot with neon UI | Python, AI |
+| [CyberUI](https://github.com/NoE114/CyberUI) | 🖥️ Neon component library for React | React, Tailwind |
+| [QuantumPaint](https://github.com/NoE114/QuantumPaint) | 🎨 Generative art with quantum randomness | Python, AI |
 
----
+<img src="https://raw.githubusercontent.com/NoE114/assets/main/neon-divider.svg" width="100%" />
 
-## 📚 Currently Learning
+```
+User@Neon:~$ whoami
+👤 Name: NoE114
+🦾 Role: Futuristic Coder & Open Source Evangelist
+🛸 Location: Tokyo-2077
+🚀 Motto: "Code the Future. Illuminate the Present."
+```
 
-* CSS Layouts & JavaScript Animations
-* 3Js For Fun
-* GitHub Collaboration & Hackathon Participation
-* Machine Learning (for real-world use)
+<p align="center">
+  <img src="https://img.shields.io/badge/1000%2B_Commits-ff00cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quantum_Contributor-00fff7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Artist-fffd00?style=for-the-badge" />
+</p>
 
----
-
-## ✨ Fun Facts
-
-* I love editing videos & experimenting with VFX/SFX.
-* I enjoy observing nature and shadows.
-* I can solve a Rubik’s Cube — even when I forget, muscle memory helps! 😄
-
----
-
-## 📫 Connect with Me
-
-* GitHub: NoE114
-* Email: *[rajdey8787@gmail.com](mailto:rajdey8787@gmail.com)*
-* Portfolio: (coming soon)
-
----
-
-> “Keep learning, keep building. Everything else will follow.”
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoE114/assets/main/cyber-quote.svg" width="320" />
+</p>
