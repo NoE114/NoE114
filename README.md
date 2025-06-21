@@ -21,6 +21,36 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoE114&layout=compact&theme=tokyonight&title_color=00fff7" />
 </p>
 
+<!-- Neon Clock & Visitor Map -->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=ff00cc&label=Time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEtc%2FUTC" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=NoE114&label=Visitors&countColor=%23ff00cc&style=flat&labelStyle=upper" />
+</p>
+
+<!-- Skill Progress Bars -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-ff00cc?style=flat&labelColor=202020" />
+  <img src="https://img.shields.io/badge/React-85%25-00fff7?style=flat&labelColor=202020" />
+  <img src="https://img.shields.io/badge/Tailwind-80%25-38BDF8?style=flat&labelColor=202020" />
+</p>
+
+<!-- Neon QR Code -->
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/NoE114&size=120x120&bgcolor=202020&color=00fff7" width="120" />
+</p>
+
+<!-- Cyberpunk ASCII Art -->
+<pre align="center">
+<span style="color:#ff00cc">
+████╗   ██╗ ██████╗ ███████╗
+█████╗  ██║██╔═══██╗██╔════╝
+██╔██╗ ██║██║   ██║███████╗
+██║╚██╗██║██║   ██║╚════██║
+██║ ╚████║╚██████╔╝███████║
+╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+</span>
+</pre>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ff00cc?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-00fff7?style=for-the-badge&logo=react&logoColor=white" />
