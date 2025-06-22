@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raj Dey!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=FF00CC&center=true&vCenter=true&width=480&lines=Welcome+to+the+Future;NoE114+%7C+Neon+Code+Sorcerer;Open+Source+Cyberpunk+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=7F00FF&center=true&vCenter=true&width=480&lines=Welcome+to+the+Future;NoE114+%7C+Neon+Code+Sorcerer;Open+Source+Cyberpunk+%F0%9F%A4%96" />
 </p>
 
 
