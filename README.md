@@ -9,7 +9,7 @@
   
   <p align="center">
     <a href="https://twitter.com/NoE114"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=ff00cc" /></a>
-    <a href="https://linkedin.com/in/NoE114"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00fff7" /></a>
+    <a href="https://www.linkedin.com/in/raj-dey-6a22b7331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00fff7" /></a>
     <img src="https://count.getloli.com/get/@NoE114?theme=rule34" />
   </p>
   
