@@ -15,7 +15,9 @@
   
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=NoE114&theme=neon-dark" />
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=NoE114&show_icons=true&theme=radical&title_color=ff00cc&icon_color=00fff7" />
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoE114&layout=compact&theme=tokyonight&title_color=00fff7" />
   </p>
   
