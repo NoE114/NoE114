@@ -30,6 +30,13 @@
   <p align="center">
     <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/NoE114&size=120x120&bgcolor=202020&color=00fff7" width="120" />
   </p>
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Python-ff00cc?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-00fff7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-✨-00fff7?style=for-the-badge" />
+</p>
   
   <!-- Cyberpunk ASCII Art -->
   <pre align="center">
@@ -43,12 +50,6 @@
   </span>
   </pre>
   
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ff00cc?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-00fff7?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-✨-00fff7?style=for-the-badge" />
-</p>
   ### 🚀 Featured Projects
   
   
