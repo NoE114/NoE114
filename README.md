@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a full-stack developer passionate about building transparent, inclusive, and better technology for everyone. I believe in writing clean code, thoughtful design, and solutions that empower people.
+I'm a full-stack developer aims to building transparent, inclusive, and better technology for everyone. I believe in writing clean code, thoughtful design, and solutions that empower people.
 
 **Mission:** To create technology that's accessible, honest, and makes a real difference.
 
