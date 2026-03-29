@@ -41,11 +41,11 @@ I'm a full-stack developer aims to building transparent, inclusive, and better t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoE114&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoE114&show_icons=true&theme=nord&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NoE114&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoE114&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoE114&layout=compact&theme=nord&hide_border=true)
 ---
 <a href="https://github.com/NoE114/asset">
   <img src="https://raw.githubusercontent.com/NoE114/asset/main/dino.jpg" width="1920" height="600" alt="Dino Footer" style="width: 100%; height: auto; object-fit: cover;">
