@@ -48,5 +48,5 @@ I'm a full-stack developer aims to building transparent, inclusive, and better t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoE114&layout=compact&theme=nord&hide_border=true)
 ---
 <a href="https://github.com/NoE114/asset">
-  <img src="https://raw.githubusercontent.com/NoE114/asset/main/dino.jpg" width="1920" height="600" alt="Dino Footer" style="width: 100%; height: auto; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/NoE114/asset/mainchromedino.gif" width="1920" height="600" alt="Dino Footer" style="width: 100%; height: auto; object-fit: cover;">
 </a>
